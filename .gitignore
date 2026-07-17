@@ -1,0 +1,26 @@
+# PyCharm / JetBrains
+.idea/
+
+# Python
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+venv/
+.venv/
+env/
+
+# Dane i wagi modeli (bardzo ważne!)
+dataset/
+*.pt
+*.pth
+*.zip
+*.tar.gz
+
+# Logi i wyniki
+*.log
+*.pkl
+*.docx
+*.png
+outputs/
